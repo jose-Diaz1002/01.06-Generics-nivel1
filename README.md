@@ -1,4 +1,4 @@
-1.6-Genèrics-Level1   (review: Ingla)
+1.6-Genèrics-Level1   (review: Inga)
 
 📄 Description - Exercise Statement
 
